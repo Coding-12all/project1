@@ -1,0 +1,255 @@
+.container{
+    width:auto;
+    height: auto;
+}
+h1{
+    margin-left: 150px;
+}
+#nav1{
+    float:right;
+    margin-right: 600px;
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+}
+#nav2{
+    float:right;
+    margin-right: 500px;
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+}
+#nav3{
+    float:right;
+    margin-right: 400px;
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+}
+#nav4{
+    float:right;
+    margin-right: 300px;
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+}
+#nav5{
+    float:right;
+    margin-right: 200px;
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+}
+#Home{
+    width:1000px;
+    height: 400px;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+h4{
+    margin-left: 30px;
+    font-family: 'Mochiy Pop One', sans-serif;
+
+}
+h2{
+    margin-left: 30px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    
+}
+#work{
+    margin-left: 30px;
+    
+    font-family: 'Mochiy Pop One', sans-serif;
+
+}
+p{
+    font-family: 'Caveat', cursive;
+}
+#img{
+    margin-left: 750px;
+    margin-top: -450px;
+    border-radius: 50%;
+    background-color: orangered;
+    padding: 2px;
+}
+#icon1{
+    float:right;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+#icon2{
+    float:right;
+    margin-top: 20px;
+    margin-right:-50px;
+}
+#icon3{
+    float:right;
+    margin-top: 20px;
+    margin-right:-90px;
+}
+#icon4{
+    float:right;
+    margin-top: 20px;
+    margin-right:-120px;
+}
+#AboutMe{
+    font-family: 'EB Garamond', serif;
+    margin-top: 80px;
+    width:1000px;
+    height: 300px;
+    margin-left: 100px;
+}
+#At{
+    margin-left: 400px;
+    font-family: 'Amarante', cursive;
+}
+#Awards{
+ 
+  height: 300px;
+  width:1000px;
+  
+  margin-left:100px;
+}
+#ad{
+    font-family: 'EB Garamond', serif;
+    margin-left: 400px; 
+}
+#s1{
+    background-color:whitesmoke;
+    padding:50px;
+    margin-left: 20px;
+}
+#s2{
+    background-color:whitesmoke;
+    padding:50px;
+    margin-left: 70px;
+}
+#s3{
+    background-color:whitesmoke;
+    padding:50px;
+    margin-left: 100px;
+}
+#Gallery{
+    
+    width:1000px;
+    height:300px;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: 'Amarante', cursive;
+}
+#gy{
+    margin-left: 400px;
+}
+#img11{
+    margin-left: 30px;
+    background-color: black;
+    padding: 2px;
+}
+#img12{
+    margin-left: 30px;
+    background-color: black;
+    padding: 2px;
+}
+#img13{
+    margin-left: 30px;
+    background-color: black;
+    padding: 2px;
+}
+#img14{
+    margin-left: 30px;
+    background-color: black;
+    padding: 2px;
+}
+#contact{
+    
+    width:1000px;
+    height:300px;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: 'Amarante', cursive;
+}
+#ct{
+    margin-left: 350px;
+}
+#search{
+    margin-top: 20px;
+    margin-left: 350px;
+width:250px;
+height:20px;
+}
+button{
+    background-color: orangered;
+    width:100px;
+    height:20px;
+    border-radius: 12%;
+    
+}
+#abts{
+    background-color:whitesmoke;
+    width: 1000px;
+    height:200px;
+    margin-left: 100px;
+}
+#sp{
+    margin-left: 400px;
+    font-family: 'Amarante', cursive;
+}
+#sp1{
+    float: right;
+    margin-right: 700px;
+}
+#sp2{
+    float: right;
+    margin-right: 600px;
+    margin-top: -40px;
+}
+#sp3{
+    float: right;
+    margin-right: 500px;
+    margin-top: -40px;
+}
+#sp4{
+    float: right;
+    margin-right: 400px;
+    margin-top: -40px;
+}
+#sp5{
+    float: right;
+    margin-right: 300px;
+    margin-top: -40px;
+}
+#icon11{
+    float:right;
+    margin-top: 20px;
+    margin-right: 600px;
+}
+#icon12{
+    float:right;
+    margin-top: 20px;
+    margin-right: 550px;
+    margin-top: -10px;
+}
+#icon13{
+    float:right;
+    margin-top: 20px;
+    margin-right: 500px;
+    margin-top: -10px;
+}
+#icon14{
+    float:right;
+    margin-top: 20px;
+    margin-right: 450px;
+    margin-top: -10px;
+}
+#Footer{
+    background-color: black;
+    width:1000px;
+    height:50px;
+    margin-left: 100px;
+    margin-top: -22px;
+}
+#ft{
+    color:white;
+    float: right;
+    margin-right: 400px;
+}
